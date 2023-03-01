@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "algosdk": "^2.1.0"
+  },
+  "name": "algobootcamp",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TioMeko/algoBootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TioMeko/algoBootcamp/issues"
+  },
+  "homepage": "https://github.com/TioMeko/algoBootcamp#readme"
+}
